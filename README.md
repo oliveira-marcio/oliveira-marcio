@@ -7,3 +7,17 @@ I'm a Portuguese 🇵🇹 /Brazilian 🇧🇷 guy currently living in Lisbon, so
 If you're an Android fan like me, maybe you'll like my recent one about [Clean Architecture](https://engineering.talkdesk.com/android-clean-architecture-an-unicorn-approach-a5076d1b409).
 
 <IMG src="https://miro.medium.com/max/1400/1*19Y9du76475ovgi8AD4Rmw.jpeg" width=300>
+
+#### What I've been doing
+<table>
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveira-marcio&count_private=true&show_icons=true" />
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=oliveira-marcio&count_private=true&show_icons=true" />
+    </td>
+  </tr>
+</table>
+
+* DISCLAIMER: Just curious statistics for those who like it. It doesn't represent my current skills... 😎
