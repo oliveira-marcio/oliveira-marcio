@@ -1,6 +1,6 @@
 ### Márcio Oliveira 👋
 
-Hello, thanks for stopping by. I'm currently an iOS Developer/Tech Lead (and former Android Developer) at [LetsGetChecked](https://www.letsgetchecked.com/).
+Hello, thanks for stopping by. I'm currently an iOS Developer at [LetsGetChecked](https://www.letsgetchecked.com/) but I already worked with Android development.
 
 I'm a Portuguese 🇵🇹 /Brazilian 🇧🇷 guy currently living in Setúbal, so if you want to know a little bit more about me, feel free to check my [LinkedIn profile](https://www.linkedin.com/in/marcio-oliveira/) and read my articles at [Medium](https://marcio-oliveira.medium.com/). 
 
