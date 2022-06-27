@@ -1,10 +1,10 @@
 ### Márcio Oliveira 👋
 
-Hello, thanks for stopping by. I'm currently an iOS Developer/Tech Lead (and former Android Developer) at [Talkdesk](https://www.talkdesk.com).
+Hello, thanks for stopping by. I'm currently an iOS Developer/Tech Lead (and former Android Developer) at [LetsGetChecked](https://www.letsgetchecked.com/).
 
-I'm a Portuguese 🇵🇹 /Brazilian 🇧🇷 guy currently living in Lisbon, so if you want to know a little bit more about me, feel free to check my [LinkedIn profile](https://www.linkedin.com/in/marcio-oliveira/) and read my articles at [Medium](https://marcio-oliveira.medium.com/). 
+I'm a Portuguese 🇵🇹 /Brazilian 🇧🇷 guy currently living in Setúbal, so if you want to know a little bit more about me, feel free to check my [LinkedIn profile](https://www.linkedin.com/in/marcio-oliveira/) and read my articles at [Medium](https://marcio-oliveira.medium.com/). 
 
-If you're an Android fan like me, maybe you'll like my recent one about [Clean Architecture](https://engineering.talkdesk.com/android-clean-architecture-an-unicorn-approach-a5076d1b409).
+If you're also an Android fan like me, maybe you'll like my recent one about [Clean Architecture](https://engineering.talkdesk.com/android-clean-architecture-an-unicorn-approach-a5076d1b409).
 
 <IMG src="https://miro.medium.com/max/1400/1*19Y9du76475ovgi8AD4Rmw.jpeg" width=300>
 
