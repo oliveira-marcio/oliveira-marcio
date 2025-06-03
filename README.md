@@ -1,6 +1,6 @@
 ### Márcio Oliveira 👋
 
-Hello, thanks for stopping by. I'm currently an iOS Developer at [LetsGetChecked](https://www.letsgetchecked.com/) but I already worked with Android development.
+Hello, thanks for stopping by. I'm currently an Senior Software Engineer (iOS) at [Adnovum]([https://www.letsgetchecked.com/](https://www.adnovum.com/)) but I already worked with Android development and other stacks.
 
 I'm a Portuguese 🇵🇹 /Brazilian 🇧🇷 guy currently living in Setúbal, so if you want to know a little bit more about me, feel free to check my [LinkedIn profile](https://www.linkedin.com/in/marcio-oliveira/) and read my articles at [Medium](https://marcio-oliveira.medium.com/). 
 
